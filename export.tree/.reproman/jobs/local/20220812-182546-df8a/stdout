@@ -1,0 +1,37 @@
+Launcher: Setup complete.
+
+------------- SUMMARY ---------------
+   Number of hosts:    2
+   Working directory:  /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds000017-mriqc
+   Processes per host: 4
+   Total processes:    8
+   Total jobs:         8
+   Scheduling method:  dynamic
+
+-------------------------------------
+Launcher: Starting parallel tasks...
+Launcher: Task 4 running job 1 on c207-034.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds000017-mriqc/.reproman/jobs/local/20220812-182546-df8a/runscript 0 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds000017-mriqc/.reproman/jobs/local/20220812-182546-df8a/stdout.0 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds000017-mriqc/.reproman/jobs/local/20220812-182546-df8a/stderr.0)
+Launcher: Task 1 running job 2 on c207-017.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds000017-mriqc/.reproman/jobs/local/20220812-182546-df8a/runscript 1 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds000017-mriqc/.reproman/jobs/local/20220812-182546-df8a/stdout.1 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds000017-mriqc/.reproman/jobs/local/20220812-182546-df8a/stderr.1)
+Launcher: Task 2 running job 3 on c207-017.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds000017-mriqc/.reproman/jobs/local/20220812-182546-df8a/runscript 2 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds000017-mriqc/.reproman/jobs/local/20220812-182546-df8a/stdout.2 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds000017-mriqc/.reproman/jobs/local/20220812-182546-df8a/stderr.2)
+Launcher: Task 5 running job 4 on c207-034.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds000017-mriqc/.reproman/jobs/local/20220812-182546-df8a/runscript 3 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds000017-mriqc/.reproman/jobs/local/20220812-182546-df8a/stdout.3 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds000017-mriqc/.reproman/jobs/local/20220812-182546-df8a/stderr.3)
+Launcher: Task 3 running job 5 on c207-017.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds000017-mriqc/.reproman/jobs/local/20220812-182546-df8a/runscript 4 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds000017-mriqc/.reproman/jobs/local/20220812-182546-df8a/stdout.4 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds000017-mriqc/.reproman/jobs/local/20220812-182546-df8a/stderr.4)
+Launcher: Task 6 running job 6 on c207-034.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds000017-mriqc/.reproman/jobs/local/20220812-182546-df8a/runscript 5 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds000017-mriqc/.reproman/jobs/local/20220812-182546-df8a/stdout.5 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds000017-mriqc/.reproman/jobs/local/20220812-182546-df8a/stderr.5)
+Launcher: Task 0 running job 7 on c207-017.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds000017-mriqc/.reproman/jobs/local/20220812-182546-df8a/runscript 6 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds000017-mriqc/.reproman/jobs/local/20220812-182546-df8a/stdout.6 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds000017-mriqc/.reproman/jobs/local/20220812-182546-df8a/stderr.6)
+Launcher: Task 7 running job 8 on c207-034.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds000017-mriqc/.reproman/jobs/local/20220812-182546-df8a/runscript 7 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds000017-mriqc/.reproman/jobs/local/20220812-182546-df8a/stdout.7 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds000017-mriqc/.reproman/jobs/local/20220812-182546-df8a/stderr.7)
+Launcher: Job 3 completed in 1189 seconds.
+Launcher: Task 2 done. Exiting.
+Launcher: Job 5 completed in 1192 seconds.
+Launcher: Task 3 done. Exiting.
+Launcher: Job 1 completed in 1236 seconds.
+Launcher: Task 4 done. Exiting.
+Launcher: Job 8 completed in 1252 seconds.
+Launcher: Task 7 done. Exiting.
+Launcher: Job 4 completed in 1280 seconds.
+Launcher: Task 5 done. Exiting.
+Launcher: Job 7 completed in 1291 seconds.
+Launcher: Task 0 done. Exiting.
+Launcher: Job 2 completed in 1317 seconds.
+Launcher: Task 1 done. Exiting.
+Launcher: Job 6 completed in 1305 seconds.
+Launcher: Task 6 done. Exiting.
+Launcher: Done. Job exited without errors
